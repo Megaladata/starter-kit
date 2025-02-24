@@ -1,6 +1,6 @@
 # Megaladata Starter Kit
 
-* Version: 1.1.0
+* Version: 1.1.1
 * Verified: All editions of Megaladata 7.1.0
 
 Megaladata starter kit library is supported and developed by Megaladata. It offers simple and useful components that ease the routine work of an analyst in developing data processing scripts. The components of the library are widely used in the company's electronic courses and component libraries for business courses.
