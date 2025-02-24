@@ -5,8 +5,6 @@
 
 Megaladata starter kit library is supported and developed by Megaladata. It offers simple and useful components that ease the routine work of an analyst in developing data processing scripts. The components of the library are widely used in the company's electronic courses and component libraries for business courses.
 
-**Please note**: Currently, the library is closed. In the near future, we will prepare a version with open components.
-
 ## Installation
 
 1. Define the working directory where your libraries will be located:
@@ -68,5 +66,6 @@ To use the **Megaladata Starter Kit** library, you need:
 * [Date difference](./docs/dates-difference.md)
 * [Random category JS](./docs/random-category.md)
 * [Column filter JS](./docs/column-filter.md)
+* [Column filter JS (Regex)](./docs/column-filter(Regex).md)
 * [IF union JS](./docs/if-union.md)
 * [Column list JS](./docs/columns-list.md)
