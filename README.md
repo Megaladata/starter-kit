@@ -1,6 +1,6 @@
 # Megaladata Starter Kit
 
-* Version: 1.1.1
+* Version: 1.1.2
 * Verified: All editions of Megaladata 7.1.0
 
 Megaladata starter kit library is supported and developed by Megaladata. It offers simple and useful components that ease the routine work of an analyst in developing data processing scripts. The components of the library are widely used in the company's electronic courses and component libraries for business courses.
@@ -56,6 +56,7 @@ To use the **Megaladata Starter Kit** library, you need:
 
 ### Utilities
 
+* [Calendar generator](./docs/calendar-generator.md)
 * [Date shift](./docs/dates-shift.md)
 * [Joining JS Columns](./docs/column-union.md)
 * [JSON Parser](./docs/parse-json.md)
